@@ -7,7 +7,7 @@
 
  here is the deployed site https://limitless-refuge-81015.herokuapp.com/
 
-
+ ![Screenshot](/public/image/screenshot.png) 
  ## Table of Contents
  * [Installation](#Installation)
  * [Usage](#Usage)
