@@ -37,7 +37,7 @@ function saveRecord(record) {
   
     // add record to your store with add method
     amountObjectStore.add(record);
-  };
+  }
 
   function uploadAmount() {
     // open a transaction on your db
