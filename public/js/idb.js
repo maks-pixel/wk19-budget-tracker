@@ -79,9 +79,9 @@ getAll.onsuccess = function() {
           console.log(err);
         });
     }
-  };
+  }
    
-}
+};
 
 // listen for app coming back online
 window.addEventListener('online', uploadAmount);
