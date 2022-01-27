@@ -5,9 +5,9 @@
  
  In this project I added offline functionality and made it so that this application was a PWA (progressive Web Application). This allows the user to use the budget tracker wherever they would like without fear of losing the 
 
- here is the deployed site https://young-oasis-23052.herokuapp.com/
+ here is the deployed site https://limitless-refuge-81015.herokuapp.com/
 
-
+ ![Screenshot](/public/image/screenshot.png) 
  ## Table of Contents
  * [Installation](#Installation)
  * [Usage](#Usage)
@@ -16,7 +16,7 @@
  * [Questions](#Questions)
  
  ## Installation
- Either download the repsotiroy and run an npm install to get all the node packages. then run the server to start the application in your local server. or go to this deployed application https://young-oasis-23052.herokuapp.com/
+ Either download the repsotiroy and run an npm install to get all the node packages. then run the server to start the application in your local server. or go to this deployed application https://limitless-refuge-81015.herokuapp.com/
 
  ## Usage
  you can add expenses and deposits to your budget tracker and you will get a graphical data displaying your budget changes 
