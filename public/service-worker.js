@@ -6,8 +6,7 @@ const FILES_TO_CACHE = [
   "/js/index.js",
   "/js/idb.js",
   "/css/styles.css",
-  "/manifest.json",
-  "../models/transaction.js"
+  "/manifest.json"
 ];
 
 // Respond with cached resources
